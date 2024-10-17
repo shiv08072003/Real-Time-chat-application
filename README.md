@@ -2,9 +2,14 @@
 Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
 
-![login page](./images/snappy_login.png)
+![login page]
+![image](https://github.com/user-attachments/assets/b2dbe59a-9542-447d-a5f0-9754ddea0d6e)
 
-![home page](./images/snappy.png)
+
+![home page]
+
+![image](https://github.com/user-attachments/assets/2d95cad9-069c-464e-a668-4662781a3900)
+
 
 ## Installation Guide
 
